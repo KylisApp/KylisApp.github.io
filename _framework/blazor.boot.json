@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "HtmlAgilityPack.dll": "sha256-p4AGrODYe2cuySVva4Q8rpDBFb03aIdpyLAN1OGFeRQ=",
-      "KylisAppTesting2.dll": "sha256-jOfZKL1+svSF1vufOsQNJqZISZaQltF1sPeHn+FeesA=",
+      "KylisAppTesting2.dll": "sha256-78o2TPx6f9D9VOB1al\/AIfuL14qKhaRhpOKz3wMzJqU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Bhk5A44EtxMEuCFkRH4sGHOF8e+gI7DJHbLb23BRZFs=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-lLeAAdXYR99eecPiAQOdsoHhleI8Ws+b2Jh\/3KOESAE=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-qLRev3iQ8+ob2712HwRtFUJchqBHMqm+gr9bbFz7t14=",
